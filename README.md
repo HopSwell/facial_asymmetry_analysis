@@ -43,6 +43,6 @@ requirements.txt: 프로그램 구동에 필요한 외부 라이브러리의 의
 
 5. 개발자 및 라이선스
 
-개발자: 전승혁
+개발자 GitHub: @HopSwell
 
 라이선스: MIT 라이선스
